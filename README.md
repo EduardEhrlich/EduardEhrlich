@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EduardEhrlich
+- 👀 I’m interested in Machine Learning, Data Science, Automation, Web Apps
+- 🌱 I’m currently learning Python, C#
+- 📫 How to reach me: zerender@gmail.com
